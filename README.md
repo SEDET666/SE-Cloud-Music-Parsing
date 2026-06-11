@@ -6,9 +6,11 @@
 [![API](https://img.shields.io/badge/API-eapi%20Encrypt-green.svg)]()
 [![Status](https://img.shields.io/badge/Status-Stable-brightgreen.svg)]()
 
+## 🌐 在线演示：https://music.sedet.top
+
 一个基于 PHP 的网易云音乐在线解析、播放与下载平台。采用与网易云客户端完全一致的 eapi 加密协议，支持多种音质选择、VIP 歌曲降级解析、歌词下载，以及高度自定义的精美 UI。
 
-![SE云音解析预览图]() 
+![SE云音解析预览图](https://raw.githubusercontent.com/SEDET666/SE-Cloud-Music-Parsing//SECloudMusicParsing.png) 
 
 ---
 
@@ -45,7 +47,7 @@
 
 1. **克隆项目**
    ```bash
-   git clone https://github.com/your-username/se-cloudplay.git
+   git clone https://github.com/SEDET666/SE-Cloud-Music-Parsing.git
    cd se-cloudplay
    ```
 
