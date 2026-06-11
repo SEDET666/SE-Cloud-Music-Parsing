@@ -10,7 +10,7 @@
 
 一个基于 PHP 的网易云音乐在线解析、播放与下载平台。采用与网易云客户端完全一致的 eapi 加密协议，支持多种音质选择、VIP 歌曲降级解析、歌词下载，以及高度自定义的精美 UI。
 
-![SE云音解析预览图](https://raw.githubusercontent.com/SEDET666/SE-Cloud-Music-Parsing//SECloudMusicParsing.png) 
+![SE云音解析预览图](https://raw.githubusercontent.com/SEDET666/SE-Cloud-Music-Parsing/main/SECloudMusicParsing.png) 
 
 ---
 
